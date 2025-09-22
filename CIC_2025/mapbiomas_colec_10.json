@@ -1,0 +1,192 @@
+{
+  "1": {
+    "PT": "Floresta",
+    "EN": "Forest",
+    "HEX_COL": "#1f8d49"
+  },
+  "3": {
+    "PT": "Formação Florestal",
+    "EN": "Forest Formation",
+    "HEX_COL": "#1f8d49"
+  },
+  "4": {
+    "PT": "Formação Savânica",
+    "EN": "Savanna Formation",
+    "HEX_COL": "#7dc975"
+  },
+  "5": {
+    "PT": "Mangue",
+    "EN": "Mangrove",
+    "HEX_COL": "#04f8fd"
+  },
+  "6": {
+    "PT": "Floresta Alagável",
+    "EN": "Floodable Forest",
+    "HEX_COL": "#007785"
+  },
+  "49": {
+    "PT": "Restinga Arbórea",
+    "EN": "Wooded Sandbank Vegetation",
+    "HEX_COL": "#02d659"
+  },
+  "10": {
+    "PT": "Vegetação Herbácea e Arbustiva",
+    "EN": "Herbaceous and Shrubby Vegetation",
+    "HEX_COL": "#d6bc74"
+  },
+  "11": {
+    "PT": "Campo Alagado e Área Pantanosa",
+    "EN": "Wetland",
+    "HEX_COL": "#519799"
+  },
+  "12": {
+    "PT": "Formação Campestre",
+    "EN": "Grassland",
+    "HEX_COL": "#d6bc74"
+  },
+  "32": {
+    "PT": "Apicum",
+    "EN": "Hypersaline Tidal Flat",
+    "HEX_COL": "#fc8114"
+  },
+  "29": {
+    "PT": "Afloramento Rochoso",
+    "EN": "Rocky Outcrop",
+    "HEX_COL": "#ffaa5f"
+  },
+  "50": {
+    "PT": "Restinga Herbácea",
+    "EN": "Herbaceous Sandbank Vegetation",
+    "HEX_COL": "#ad5100"
+  },
+  "14": {
+    "PT": "Agropecuária",
+    "EN": "Farming",
+    "HEX_COL": "#ffefc3"
+  },
+  "15": {
+    "PT": "Pastagem",
+    "EN": "Pasture",
+    "HEX_COL": "#edde8e"
+  },
+  "18": {
+    "PT": "Agricultura",
+    "EN": "Agriculture",
+    "HEX_COL": "#f974ed"
+  },
+  "19": {
+    "PT": "Lavoura Temporária",
+    "EN": "Temporary Crop",
+    "HEX_COL": "#c27ba0"
+  },
+  "39": {
+    "PT": "Soja",
+    "EN": "Soybean",
+    "HEX_COL": "#f5b3c8"
+  },
+  "20": {
+    "PT": "Cana",
+    "EN": "Sugar cane",
+    "HEX_COL": "#db7093"
+  },
+  "40": {
+    "PT": "Arroz",
+    "EN": "Rice",
+    "HEX_COL": "#c71585"
+  },
+  "62": {
+    "PT": "Algodão (beta)",
+    "EN": "Cotton (beta)",
+    "HEX_COL": "#ff69b4"
+  },
+  "41": {
+    "PT": "Outras Lavouras Temporárias",
+    "EN": "Other Temporary Crops",
+    "HEX_COL": "#f54ca9"
+  },
+  "36": {
+    "PT": "Lavoura Perene",
+    "EN": "Perennial Crop",
+    "HEX_COL": "#d082de"
+  },
+  "46": {
+    "PT": "Café",
+    "EN": "Coffee",
+    "HEX_COL": "#d68fe2"
+  },
+  "47": {
+    "PT": "Citrus",
+    "EN": "Citrus",
+    "HEX_COL": "#9932cc"
+  },
+  "35": {
+    "PT": "Dendê",
+    "EN": "Palm Oil",
+    "HEX_COL": "#9065d0"
+  },
+  "48": {
+    "PT": "Outras Lavouras Perenes",
+    "EN": "Other Perennial Crops",
+    "HEX_COL": "#e6ccff"
+  },
+  "9": {
+    "PT": "Silvicultura",
+    "EN": "Forest Plantation",
+    "HEX_COL": "#7a5900"
+  },
+  "21": {
+    "PT": "Mosaico de Usos",
+    "EN": "Mosaic of Uses",
+    "HEX_COL": "#ffefc3"
+  },
+  "22": {
+    "PT": "Área não Vegetada",
+    "EN": "Non vegetated area",
+    "HEX_COL": "#d4271e"
+  },
+  "23": {
+    "PT": "Praia, Dune e Areal",
+    "EN": "Beach, Dune and Sand Spot",
+    "HEX_COL": "#ffa07a"
+  },
+  "24": {
+    "PT": "Área Urbanizada",
+    "EN": "Urban Area",
+    "HEX_COL": "#d4271e"
+  },
+  "30": {
+    "PT": "Mineração",
+    "EN": "Mining",
+    "HEX_COL": "#9c0027"
+  },
+  "75": {
+    "PT": "Usina Fotovoltaica (beta)",
+    "EN": "Photovoltaic Power Plant (beta)",
+    "HEX_COL": "#c12100"
+  },
+  "25": {
+    "PT": "Outras Áreas não Vegetadas",
+    "EN": "Other non Vegetated Areas",
+    "HEX_COL": "#db4644"
+  },
+  "26": {
+    "PT": "Corpo D'água",
+    "EN": "Water",
+    "HEX_COL": "#2532e4"
+  },
+  "33": {
+    "PT": "Rio, Lago e Oceano",
+    "EN": "River, Lake and Ocean",
+    "HEX_COL": "#2532e4"
+  },
+  "31": {
+    "PT": "Aquicultura",
+    "EN": "Aquaculture",
+    "HEX_COL": "#091077"
+  },
+  "27": {
+    "PT": "Não observado",
+    "EN": "Not Observed",
+    "HEX_COL": "#ffffff"
+  }
+}
