@@ -1,3 +1,11 @@
+/**
+@author: Mateus H Fulan;
+@date: Last updated 07/03/2026.
+@description: Extracts environmental variables for each year between 'startYear' and 
+              'endYear' using FIRMS as the fire layers. 'buffer_size_meters' is the 
+              variable used to extract GHG emissions.
+*/
+
 // ==============================================
 // Configuration Section
 // ==============================================
