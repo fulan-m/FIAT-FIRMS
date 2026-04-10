@@ -1,7 +1,9 @@
 <div align='center'>
   
-# CIC UFSCar 2025
-
+  # CIC UFSCar 2025
+    
+  Read this in other languages: [Portugês Brasil 🇧🇷](https://github.com/fulan-m/FIAT-FIRMS/blob/main/articles/CIC_UFSCar/README-PTBR.md)
+  
 </div>
 
 <div align='justify'>
