@@ -1,3 +1,6 @@
 [submodule "articles/CIC-UFSCar-2025"]
 	path = articles/CIC-UFSCar-2025
 	url = https://github.com/fulan-m/FIAT-FIRMS_._CIC-UFSCar-2025
+[submodule "articles/C.O.M.B.U.S.T.I.O.N."]
+	path = articles/C.O.M.B.U.S.T.I.O.N.
+	url = https://github.com/fulan-m/FIAT-FIRMS
