@@ -1,3 +1,4 @@
+<<<<<<< HEAD:articles/CIC_UFSCar/README.md
 <div align='center'>
   
   # CIC UFSCar 2025
@@ -14,3 +15,6 @@
   Available here are a few scripts used for the analysis of hotspot occurences in the Cerrado biome of São Paulo state using the VIIRS S-NPP to assess wildfire hotspots during the period of 2012-2024.
 
 </div>
+=======
+# FIAT-FIRMS_._CIC-UFSCar-2025
+>>>>>>> 3395f87 (okok):articles/CIC UFSCar 2025/README.md
