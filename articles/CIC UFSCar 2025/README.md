@@ -1,4 +1,3 @@
-<<<<<<< HEAD:articles/CIC_UFSCar/README.md
 <div align='center'>
   
   # CIC UFSCar 2025
