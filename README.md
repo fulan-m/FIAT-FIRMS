@@ -18,7 +18,7 @@ This repository contains the collections of results obtained during a Research I
 
 ## **Results from the projects can be found here:**
 
-### [🔥 Wildfire hotspot analysis 🎯](https://github.com/fulan-m/FIAT-FIRMS_._CIC-UFSCar-2025)
+### [🔥 Wildfire hotspot analysis 🎯](https://github.com/fulan-m/FIAT-FIRMS/tree/main/CIC-UFSCar-2025)
 
 <div align='justify'>
 
@@ -26,7 +26,7 @@ Using fire layers from the NASA | LANCE | FIRMS product, hotpots calculated with
 
 </div>
 
-### [🚨 C.O.M.B.U.S.T.I.O.N.: _Wildfire prection using Random Forest_ 🧯](https://github.com/fulan-m/FIAT-FIRMS_._C.O.M.B.U.S.T.I.O.N.)
+### [🚨 C.O.M.B.U.S.T.I.O.N.: _Wildfire prection using Random Forest_ 🧯](https://github.com/fulan-m/FIAT-FIRMS/tree/main/C.O.M.B.U.S.T.I.O.N.)
 
 <div align='justify'>
 
