@@ -21,8 +21,8 @@ EE_PROJECT = 'your_project'
 
 # Mapping for VIIRS categorical confidence
 VIIRS_CONF_MAP = {
-    'nominal_conf': 1,
-    'above-nominal_conf': 1, # Logic: >= 1
+    'low_conf': 0,
+    'nominal-high_conf': 1,
     'high_conf': 2
 }
 
@@ -131,10 +131,9 @@ def run_pipeline():
                 fire_mask = fire_img.updateMask(fire_img.gte(thresh_val))
                 scale = 1000
             else:
-                ee_coll = ee.ImageCollection("FIRMS").select('confidence').filterDate(start_date, end_date) # Note: VIIRS is often inside FIRMS collection in EE
+                ee_coll = ee.ImageCollection("FIRMS").select('confidence').filterDate(start_date, end_date)
                 thresh_val = VIIRS_CONF_MAP.get(combo['thr'], 1)
                 fire_img = ee_coll.max().clip(cerrado)
-                # Handle 'above-nominal' logic
                 op = fire_img.gte(thresh_val) if combo['thr'] != 'high_conf' else fire_img.eq(2)
                 fire_mask = fire_img.updateMask(op)
                 scale = 375
